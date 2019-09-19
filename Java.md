@@ -14,7 +14,8 @@
 <li>Si tiene un fondo de diseño web, si desea separar la interfaz de usuario (UI) y la lógica de back-end, puede desarrollar los aspectos de presentación de la UI en el lenguaje de script FXML y usar código Java para la aplicación lógica</li>
 </ul>
 <h2 id="arquitectura-javafx">Arquitectura JavaFX</h2>
-<p>Las secciones que siguen al diagrama detallado cada componente y cómo se interconectan las partes. Debajo de las API públicas de JavaFX se encuentra el motor que ejecutó su código JavaFX. Está compuesto por subcomponentes que incluyen un motor gráfico de alto rendimiento JavaFX, llamado Prism; un sistema de ventanas pequeño y eficiente, llamado Glass; un motor de medios y un motor web.</p>
+<p>Las secciones que siguen al diagrama detallado cada componente y cómo se interconectan las partes. Debajo de las API públicas de JavaFX se encuentra el motor que ejecutó su código JavaFX. Está compuesto por subcomponentes que incluyen un motor gráfico de alto rendimiento JavaFX, llamado Prism; un sistema de ventanas pequeño y eficiente, llamado Glass; un motor de medios y un motor web.<br>
+<img src="https://docs.oracle.com/javafx/2/architecture/img/jfxar_dt_001_arch-diag.png" alt="enter image description here"></p>
 <h1 id="java-swing">Java Swing</h1>
 <p>Swing es una biblioteca gráfica para Java. Incluye widgets para interfaz gráfica de usuario tales como cajas de texto, botones, listas desplegables y tablas.</p>
 <h2 id="funcionamiento-de-java-swing">Funcionamiento de Java Swing</h2>
